@@ -1,4 +1,4 @@
-Maps plant collection records downloaded from Australian Virtual Herbarium in their native cvs file format.
+Maps plant collection records downloaded from Australian Virtual Herbarium (https://avh.chah.org.au) in their native cvs file format.
 
 variables.py:
 Set up paths to Shape & Csv files.

@@ -76,7 +76,7 @@ class Species:
                 
             if collection.type == "type???": #dodgy if the default is changed in the class it will break here...
                 # details += "TYPESTATUS: " + collection.type + ", "
-                details += collection.details()
+                details += collection.get_details()
             
         result = self._replace_last(details, ';', '.')
         return result

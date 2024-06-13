@@ -14,7 +14,7 @@ Usage:
 variables.py:
 
 Set up paths to Shape & Csv files.
-Set up Genus and species names (currently only takes a single genus) and colour for each species.
+Set up Genus (currently only takes one genus), a list of species names and a list of colour for each species.
 
 main.py:
 

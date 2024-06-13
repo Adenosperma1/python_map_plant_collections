@@ -21,7 +21,6 @@ main.py:
 Creates map with collection locations. Shows a basic legend.
 Creates a text file for each species with a list of all collections formatted for Nuytsia Journal.
 
-example map out: see file map.png.
 
 
 

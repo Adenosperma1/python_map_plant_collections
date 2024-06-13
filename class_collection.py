@@ -160,7 +160,7 @@ class Collection:
     
     
     #Public function ################################################################# 
-    def details(self):
+    def get_details(self):
         return( self._formatLocality() + self._formatCollectors() + self._formatCollectorsID() + self._formatDate() + self._formatID())
         
     

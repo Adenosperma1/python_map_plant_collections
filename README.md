@@ -1,5 +1,5 @@
 Map plant collection records downloaded from Australian Virtual Herbarium (https://avh.chah.org.au)
-and create a list of collections formated for Nuytsia Journal.
+and create a text file for each species containing a list of collections formated for Nuytsia Journal.
 
 example map:
 
